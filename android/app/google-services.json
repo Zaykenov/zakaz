@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "478711827163",
+    "project_id": "translatorapp-c29e9",
+    "storage_bucket": "translatorapp-c29e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478711827163:android:c4c52ad5e7b78e08c79afe",
+        "android_client_info": {
+          "package_name": "com.example.zakaz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478711827163-73bgib962lrivp9oehp0rfg0g98g9sq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz37YtbafFAsuQ_mRs8gOiia1vqKKX7cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478711827163-73bgib962lrivp9oehp0rfg0g98g9sq9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478711827163-8f276u4cclmi7dfiu5u9vvtbd5u7r7ts.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zakazSend"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478711827163:android:a63448ce1b856671c79afe",
+        "android_client_info": {
+          "package_name": "com.example.zakaz_send"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478711827163-73bgib962lrivp9oehp0rfg0g98g9sq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz37YtbafFAsuQ_mRs8gOiia1vqKKX7cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478711827163-73bgib962lrivp9oehp0rfg0g98g9sq9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478711827163-8f276u4cclmi7dfiu5u9vvtbd5u7r7ts.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zakazSend"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
