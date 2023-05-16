@@ -12,6 +12,7 @@ dependencies:
   firebase_core: ^2.10.0
   flutter:
     sdk: flutter
+  highlight_text: ^1.6.0
 
 dev_dependencies:
   flutter_test:
