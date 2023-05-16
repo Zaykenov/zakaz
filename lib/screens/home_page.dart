@@ -43,7 +43,7 @@ class _HomePageState extends State<HomePage> {
                   SizedBox(
                     height: 30,
                   ),
-                  Text('Trust your translations to us this is branch',
+                  Text('Trust your translations to us this is branch and also',
                       style: TextStyle(
                         fontSize: 40,
                         fontWeight: FontWeight.w500,
